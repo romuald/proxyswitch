@@ -9,4 +9,4 @@ An image worth a few words:
 
 .. image:: http://www.chivil.com/proxyswitch/screenshot.png
 
-You can build it yourself (``make install``), or `<http://www.chivil.com/proxyswitch/ProxySwitch.dmg> download the archive`_
+You can build it yourself using ``make install``, or `download the archive <http://www.chivil.com/proxyswitch/ProxySwitch.dmg>`_
